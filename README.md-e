@@ -12,8 +12,8 @@ grpc might be heavy to make internal system, but there are benefits to accept co
 * internal systems use many commonly layer like auth, reporting, and so on.
 * there are case to change data structure is difficult, grpc is useful because it is suppose to maintain data longtime.
 
-## frameworks
-### frontend
+## frameworks    
+### frontend 
 * vue.js https://jp.vuejs.org/index.html
 * grpc-web https://github.com/grpc/grpc-web
 ### backend
